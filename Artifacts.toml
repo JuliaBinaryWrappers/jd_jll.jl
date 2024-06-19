@@ -1,0 +1,143 @@
+[[jd]]
+arch = "aarch64"
+git-tree-sha1 = "7d0ba05e3da197b49344f9f30ac30208a2db6011"
+os = "macos"
+
+    [[jd.download]]
+    sha256 = "dc8d21d40909d6de998cd2d56ba38600e43cb6b648d29f8d607113c5314deaa1"
+    url = "https://github.com/JuliaBinaryWrappers/jd_jll.jl/releases/download/jd-v1.8.1+0/jd.v1.8.1.aarch64-apple-darwin.tar.gz"
+[[jd]]
+arch = "aarch64"
+git-tree-sha1 = "df44fb4dd007bc70a914a6b3cb20343d5ad83cce"
+libc = "glibc"
+os = "linux"
+
+    [[jd.download]]
+    sha256 = "f672e8905440c9568bcccbb4f696779e3ad156e8fcf78594f1a2de019f011637"
+    url = "https://github.com/JuliaBinaryWrappers/jd_jll.jl/releases/download/jd-v1.8.1+0/jd.v1.8.1.aarch64-linux-gnu.tar.gz"
+[[jd]]
+arch = "aarch64"
+git-tree-sha1 = "df44fb4dd007bc70a914a6b3cb20343d5ad83cce"
+libc = "musl"
+os = "linux"
+
+    [[jd.download]]
+    sha256 = "f672e8905440c9568bcccbb4f696779e3ad156e8fcf78594f1a2de019f011637"
+    url = "https://github.com/JuliaBinaryWrappers/jd_jll.jl/releases/download/jd-v1.8.1+0/jd.v1.8.1.aarch64-linux-musl.tar.gz"
+[[jd]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "799d3be1e96af437969787a0f618ad914f2ff66c"
+libc = "glibc"
+os = "linux"
+
+    [[jd.download]]
+    sha256 = "9c8b643b2d8891819b0b25763989826ea4b54c2b93aeabf6d7e2949d90cb8af4"
+    url = "https://github.com/JuliaBinaryWrappers/jd_jll.jl/releases/download/jd-v1.8.1+0/jd.v1.8.1.armv6l-linux-gnueabihf.tar.gz"
+[[jd]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "799d3be1e96af437969787a0f618ad914f2ff66c"
+libc = "musl"
+os = "linux"
+
+    [[jd.download]]
+    sha256 = "9c8b643b2d8891819b0b25763989826ea4b54c2b93aeabf6d7e2949d90cb8af4"
+    url = "https://github.com/JuliaBinaryWrappers/jd_jll.jl/releases/download/jd-v1.8.1+0/jd.v1.8.1.armv6l-linux-musleabihf.tar.gz"
+[[jd]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "12c07c58b346c8690e35a08be7d9e56848e26b26"
+libc = "glibc"
+os = "linux"
+
+    [[jd.download]]
+    sha256 = "af3193e200e43eefcec14f7bdd9d46787af30b65fc7d0e61792d5a8ec18f9829"
+    url = "https://github.com/JuliaBinaryWrappers/jd_jll.jl/releases/download/jd-v1.8.1+0/jd.v1.8.1.armv7l-linux-gnueabihf.tar.gz"
+[[jd]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "12c07c58b346c8690e35a08be7d9e56848e26b26"
+libc = "musl"
+os = "linux"
+
+    [[jd.download]]
+    sha256 = "af3193e200e43eefcec14f7bdd9d46787af30b65fc7d0e61792d5a8ec18f9829"
+    url = "https://github.com/JuliaBinaryWrappers/jd_jll.jl/releases/download/jd-v1.8.1+0/jd.v1.8.1.armv7l-linux-musleabihf.tar.gz"
+[[jd]]
+arch = "i686"
+git-tree-sha1 = "16e13ff5a44c6df896b91505d10e326e34d5772b"
+libc = "glibc"
+os = "linux"
+
+    [[jd.download]]
+    sha256 = "4c050a142673d8dc52543bde2e7efba17ac0344091e44b83d3e7a57bf27c7dd7"
+    url = "https://github.com/JuliaBinaryWrappers/jd_jll.jl/releases/download/jd-v1.8.1+0/jd.v1.8.1.i686-linux-gnu.tar.gz"
+[[jd]]
+arch = "i686"
+git-tree-sha1 = "16e13ff5a44c6df896b91505d10e326e34d5772b"
+libc = "musl"
+os = "linux"
+
+    [[jd.download]]
+    sha256 = "4c050a142673d8dc52543bde2e7efba17ac0344091e44b83d3e7a57bf27c7dd7"
+    url = "https://github.com/JuliaBinaryWrappers/jd_jll.jl/releases/download/jd-v1.8.1+0/jd.v1.8.1.i686-linux-musl.tar.gz"
+[[jd]]
+arch = "i686"
+git-tree-sha1 = "6c918f09160a589df88949c92baf2423719dd106"
+os = "windows"
+
+    [[jd.download]]
+    sha256 = "39ba2c6610378b5f0f4eb04da5d39d9eb7aa62e1d89a3ccd47ef431f1072c700"
+    url = "https://github.com/JuliaBinaryWrappers/jd_jll.jl/releases/download/jd-v1.8.1+0/jd.v1.8.1.i686-w64-mingw32.tar.gz"
+[[jd]]
+arch = "powerpc64le"
+git-tree-sha1 = "6959971be2eaef7d3810c1a2032bec5858739770"
+libc = "glibc"
+os = "linux"
+
+    [[jd.download]]
+    sha256 = "e486e73299845a5ccc3e8c37c178af8e1d1b77cecbd85cf285e7e2008762bc7c"
+    url = "https://github.com/JuliaBinaryWrappers/jd_jll.jl/releases/download/jd-v1.8.1+0/jd.v1.8.1.powerpc64le-linux-gnu.tar.gz"
+[[jd]]
+arch = "x86_64"
+git-tree-sha1 = "181b6e142bccbc60fa602376097351b5a258063a"
+os = "macos"
+
+    [[jd.download]]
+    sha256 = "fef23d24fb9e99b2909724d7e40bcfb4eb3c9cb3c9666f4cd4597c057c9878a0"
+    url = "https://github.com/JuliaBinaryWrappers/jd_jll.jl/releases/download/jd-v1.8.1+0/jd.v1.8.1.x86_64-apple-darwin.tar.gz"
+[[jd]]
+arch = "x86_64"
+git-tree-sha1 = "0cc461067fe3d892a5a7a8bf99fa107c70d6b3ae"
+libc = "glibc"
+os = "linux"
+
+    [[jd.download]]
+    sha256 = "205d8ab94d96d7f5c6bb1e20385980b46589e17f6d488de13f63528c3a2cb424"
+    url = "https://github.com/JuliaBinaryWrappers/jd_jll.jl/releases/download/jd-v1.8.1+0/jd.v1.8.1.x86_64-linux-gnu.tar.gz"
+[[jd]]
+arch = "x86_64"
+git-tree-sha1 = "aff8b83089623644120b58c36ff4b5dfae9098f5"
+libc = "musl"
+os = "linux"
+
+    [[jd.download]]
+    sha256 = "969681fcb90c247ea3b7a1c42a1eff50175b432b0f1c4f5eb0dad6aa5e2da263"
+    url = "https://github.com/JuliaBinaryWrappers/jd_jll.jl/releases/download/jd-v1.8.1+0/jd.v1.8.1.x86_64-linux-musl.tar.gz"
+[[jd]]
+arch = "x86_64"
+git-tree-sha1 = "ff80fb3711d39cee3b0b1065fcfc150f8150e883"
+os = "freebsd"
+
+    [[jd.download]]
+    sha256 = "8f9cffb15ac4f52fbe59f7b9ab42ce665c7f32f577c5e1985796462ae7fdd6dd"
+    url = "https://github.com/JuliaBinaryWrappers/jd_jll.jl/releases/download/jd-v1.8.1+0/jd.v1.8.1.x86_64-unknown-freebsd.tar.gz"
+[[jd]]
+arch = "x86_64"
+git-tree-sha1 = "42b256c479a8d3497a85caab1ea392a7034dd37f"
+os = "windows"
+
+    [[jd.download]]
+    sha256 = "a34e5ce433d75d212d31bb78fb6756e1969316351cb3339707db6a7074b1965d"
+    url = "https://github.com/JuliaBinaryWrappers/jd_jll.jl/releases/download/jd-v1.8.1+0/jd.v1.8.1.x86_64-w64-mingw32.tar.gz"
